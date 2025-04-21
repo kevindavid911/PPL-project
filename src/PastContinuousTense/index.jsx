@@ -20,6 +20,7 @@ const PastContinuousTense = () => {
 
         <div className="sub-section">
           <h4 className="sub-section-title">Fungsi dan Penggunaan</h4>
+          <div className="sub-section custom-bg-1">
           <ul className="section-description">
             <li>Menyatakan kejadian yang sedang terjadi di masa lalu</li>
             <li>Menyatakan dua kejadian yang terjadi bersamaan di masa lalu</li>
@@ -28,9 +29,11 @@ const PastContinuousTense = () => {
             <li>Mengungkapkan sikap atau kebiasaan yang mengganggu di masa lalu</li>
           </ul>
         </div>
+        </div>
 
         <div className="sub-section">
           <h4 className="sub-section-title">Contoh Penggunaan</h4>
+          <div className="sub-section custom-bg-2">
           <ul className="section-description">
             <li>At 8 PM last night, I was studying.</li>
             <li>She was cooking when I arrived.</li>
@@ -39,6 +42,7 @@ const PastContinuousTense = () => {
             <li>He was working on his project all day yesterday.</li>
             <li>She was constantly talking during the meeting.</li>
           </ul>
+        </div>
         </div>
 
         <div className="sub-section">
@@ -73,6 +77,7 @@ const PastContinuousTense = () => {
 
         <div className="sub-section">
           <h4 className="sub-section-title">Keterangan Waktu Umum</h4>
+          <div className="sub-section custom-bg-1">
           <ul className="section-description">
             <li>At this time yesterday</li>
             <li>At 7 PM last night</li>
@@ -81,6 +86,7 @@ const PastContinuousTense = () => {
             <li>All day yesterday</li>
             <li>All night</li>
           </ul>
+        </div>
         </div>
 
         <div className="sub-section">
@@ -111,10 +117,12 @@ const PastContinuousTense = () => {
 
         <div className="sub-section">
           <h4 className="sub-section-title">Kesalahan Umum</h4>
+          <div className="sub-section custom-bg-2">
           <ul className="section-description">
             <li>❌ I was read a book → ✅ I was reading a book</li>
             <li>❌ He was knowing the answer → ✅ He knew the answer</li>
           </ul>
+        </div>
         </div>
 
         <div className="navigation-buttons">

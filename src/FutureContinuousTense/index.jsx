@@ -20,12 +20,14 @@ const Pronouns = () => {
 
         <div className="sub-section">
           <h4 className="sub-section-title">Fungsi dan Penggunaan</h4>
+          <div className="sub-section custom-bg-1">
           <ul className="section-description">
             <li>Menyatakan kejadian yang akan sedang berlangsung di masa depan</li>
             <li>Menyatakan rencana atau jadwal yang sudah pasti akan terjadi</li>
             <li>Menunjukkan kejadian yang berlangsung bersamaan dengan kejadian lain</li>
             <li>Menunjukkan dugaan/perkiraan tentang kejadian di masa depan</li>
           </ul>
+        </div>
           <div className="sub-content custom-bg-1">
             <h5>Contoh Kalimat:</h5>
             <ul>
@@ -69,14 +71,17 @@ const Pronouns = () => {
           </table>
 
           <p className="section-description"><strong>Jawaban Singkat:</strong></p>
+          <div className="sub-section custom-bg-1">
           <ul className="section-description">
             <li>Will she be studying tonight? → Yes, she will. / No, she won’t.</li>
             <li>Will they be traveling next month? → Yes, they will. / No, they won’t.</li>
           </ul>
         </div>
+      </div>
 
         <div className="sub-section">
           <h4 className="sub-section-title">Keterangan Waktu Umum</h4>
+          <div className="sub-section custom-bg-2">
           <ul className="section-description">
             <li>This time tomorrow</li>
             <li>At this moment next week</li>
@@ -84,6 +89,7 @@ const Pronouns = () => {
             <li>At 10 PM tonight</li>
           </ul>
         </div>
+      </div>
 
         <div className="sub-section">
           <h4 className="sub-section-title">Perbedaan dengan Tense Lain</h4>
@@ -128,12 +134,14 @@ const Pronouns = () => {
 
         <div className="sub-section">
           <h4 className="sub-section-title">Kesalahan Umum</h4>
+          <div className="sub-section custom-bg-2">
           <ul className="section-description">
             <li>❌ I will be go to school tomorrow → ✅ I will be going to school tomorrow</li>
             <li>❌ The train will be arriving at 10 AM → ✅ The train will arrive at 10 AM</li>
             <li>❌ I will be helping you with your homework → ✅ I will help you with your homework</li>
           </ul>
         </div>
+      </div>
 
         <div className="navigation-buttons">
           <button className="nav-button">

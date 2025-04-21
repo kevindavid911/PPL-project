@@ -18,6 +18,7 @@ const Conditionals = () => {
         <div className="sub-section">
           <h4 className="sub-section-title">1. Conditional Sentences</h4>
 
+        <div className="sub-section custom-bg-1">
           <div className="sub-sub-section">
             <h5 className="sub-section-title">a. Conditional Type 1 (Kemungkinan di Masa Depan)</h5>
             <p className="section-description">
@@ -29,6 +30,7 @@ const Conditionals = () => {
               </ul>
             </p>
           </div>
+          
 
           <div className="sub-sub-section">
             <h5 className="sub-section-title">b. Conditional Type 2 (Hipotesis di Masa Sekarang atau Masa Depan)</h5>
@@ -55,9 +57,11 @@ const Conditionals = () => {
             </p>
           </div>
         </div>
+      </div>
 
         <div className="sub-section">
           <h4 className="sub-section-title">2. As If dan As Though</h4>
+          <div className="sub-section custom-bg-2">
           <p className="section-description">
             Digunakan untuk membandingkan situasi dengan sesuatu yang tidak nyata atau tidak benar-benar terjadi.<br/>
             Contoh:
@@ -68,10 +72,12 @@ const Conditionals = () => {
             <em>Catatan: As if dan As though bisa saling menggantikan.</em>
           </p>
         </div>
+      </div>
 
         <div className="sub-section">
           <h4 className="sub-section-title">3. Wish (Pengandaian atau Harapan yang Tidak Nyata)</h4>
 
+          <div className="sub-section custom-bg-1">
           <div className="sub-sub-section">
             <h5 className="sub-section-title">a. Wish untuk Masa Sekarang</h5>
             <p className="section-description">
@@ -109,6 +115,7 @@ const Conditionals = () => {
             </p>
           </div>
         </div>
+    </div>
 
         <div className="navigation-buttons">
           <button className="nav-button">

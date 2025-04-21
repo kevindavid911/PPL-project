@@ -17,6 +17,7 @@ const Causative = () => {
 
         <div className="sub-section">
           <h4 className="sub-section-title">1. Causative Have</h4>
+          <div className="sub-section custom-bg-1">
           <p className="section-description">
             Digunakan ketika seseorang meminta atau menyuruh orang lain untuk melakukan sesuatu.
           </p>
@@ -31,10 +32,12 @@ const Causative = () => {
             <li>She has the mechanic fix her car.</li>
             <li>He had his house painted last week.</li>
           </ul>
+          </div>
         </div>
 
         <div className="sub-section">
           <h4 className="sub-section-title">2. Causative Get</h4>
+          <div className="sub-section custom-bg-2">
           <p className="section-description">
             Mirip dengan <strong>have</strong>, namun lebih informal dan sering digunakan dalam percakapan.
           </p>
@@ -49,10 +52,12 @@ const Causative = () => {
             <li>She got the waiter to bring her some water.</li>
             <li>He got his car washed.</li>
           </ul>
+          </div>
         </div>
 
         <div className="sub-section">
           <h4 className="sub-section-title">3. Causative Make</h4>
+          <div className="sub-section custom-bg-1">
           <p className="section-description">
             Digunakan ketika seseorang memaksa atau mewajibkan orang lain melakukan sesuatu.
           </p>
@@ -67,6 +72,7 @@ const Causative = () => {
             <li>His boss made him work late.</li>
             <li>They were made to apologize.</li>
           </ul>
+          </div>
         </div>
 
         <div className="navigation-buttons">

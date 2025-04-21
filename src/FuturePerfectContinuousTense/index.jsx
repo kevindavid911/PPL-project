@@ -20,11 +20,13 @@ const FuturePerfectContinuousTense = () => {
 
         <div className="sub-section">
           <h4 className="sub-section-title">Fungsi dan Penggunaan</h4>
+          <div className="sub-section custom-bg-1">
           <ul className="section-description">
             <li>Menyatakan suatu kejadian yang telah berlangsung selama periode tertentu dan masih akan berlangsung di masa depan</li>
             <li>Menunjukkan durasi aktivitas yang sedang berlangsung hingga masa depan sebelum sesuatu yang lain terjadi</li>
             <li>Menggambarkan suatu kejadian berkelanjutan yang dapat menyebabkan dampak di masa depan</li>
           </ul>
+        </div>
           <div className="sub-content custom-bg-1">
             <h5>Contoh Kalimat:</h5>
             <ul>
@@ -67,6 +69,7 @@ const FuturePerfectContinuousTense = () => {
 
         <div className="sub-section">
           <h4 className="sub-section-title">Keterangan Waktu Umum</h4>
+          <div className="sub-section custom-bg-2">
           <ul className="section-description">
             <li>By next year/month/week</li>
             <li>By the time</li>
@@ -75,15 +78,18 @@ const FuturePerfectContinuousTense = () => {
             <li>By 2025</li>
           </ul>
         </div>
+      </div>
 
         <div className="sub-section">
           <h4 className="sub-section-title">Kesalahan Umum</h4>
+          <div className="sub-section custom-bg-1">
           <ul className="section-description">
             <li>❌ By tomorrow, she will have been studies for five hours → ✅ she will have been studying</li>
             <li>❌ I will have been living here since five years → ✅ I will have been living here for five years</li>
             <li>❌ By next month, he will have been working → ✅ he will have been working for ten years</li>
           </ul>
         </div>
+      </div>
 
         <div className="sub-section">
           <h4 className="sub-section-title">Perbedaan dengan Tense Lain</h4>

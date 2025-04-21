@@ -17,7 +17,7 @@ const Gerund = () => {
 
         <div className="sub-section">
           <h4 className="sub-section-title">1. Fungsi Gerund dalam Kalimat</h4>
-
+          <div className="sub-section custom-bg-1">
           <div className="sub-sub-section">
             <h5 className="sub-section-title">a. Sebagai Subjek Kalimat</h5>
             <p className="section-description">
@@ -27,9 +27,11 @@ const Gerund = () => {
               </ul>
             </p>
           </div>
+        </div>
 
           <div className="sub-sub-section">
             <h5 className="sub-section-title">b. Sebagai Objek Kata Kerja</h5>
+            <div className="sub-section custom-bg-2">
             <p className="section-description">
               Digunakan setelah beberapa kata kerja tertentu:
               <ul>
@@ -39,9 +41,11 @@ const Gerund = () => {
               <strong>Kata kerja umum:</strong> enjoy, avoid, consider, admit, suggest, deny, finish, practice, keep, mind, miss
             </p>
           </div>
+        </div>
 
           <div className="sub-sub-section">
             <h5 className="sub-section-title">c. Sebagai Objek dari Preposisi</h5>
+            <div className="sub-section custom-bg-1">
             <p className="section-description">
               <ul>
                 <li>She is good at painting.</li>
@@ -50,9 +54,11 @@ const Gerund = () => {
               <strong>Preposisi umum:</strong> about, after, before, by, in, on, of, without
             </p>
           </div>
+        </div>
 
           <div className="sub-sub-section">
             <h5 className="sub-section-title">d. Sebagai Pelengkap</h5>
+            <div className="sub-section custom-bg-2">
             <p className="section-description">
               <ul>
                 <li>His hobby is cycling.</li>
@@ -61,9 +67,11 @@ const Gerund = () => {
             </p>
           </div>
         </div>
+      </div>
 
         <div className="sub-section">
           <h4 className="sub-section-title">2. Gerund vs. Infinitive</h4>
+          <div className="sub-section custom-bg-2">
           <p className="section-description">
             Beberapa kata kerja bisa diikuti oleh gerund atau infinitive dengan <strong>makna berbeda</strong>.
             <ul>
@@ -75,9 +83,11 @@ const Gerund = () => {
             <strong>Kata kerja umum:</strong> stop, remember, forget, try, regret, need
           </p>
         </div>
+      </div>
 
         <div className="sub-section">
           <h4 className="sub-section-title">3. Gerund dalam Ekspresi Khusus</h4>
+          <div className="sub-section custom-bg-1">
           <p className="section-description">
             Ungkapan yang selalu diikuti oleh gerund:
             <ul>
@@ -88,6 +98,7 @@ const Gerund = () => {
             </ul>
           </p>
         </div>
+      </div>
 
         <div className="navigation-buttons">
           <button className="nav-button">

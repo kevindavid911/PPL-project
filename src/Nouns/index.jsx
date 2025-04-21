@@ -71,6 +71,7 @@ const Nouns = () => {
 
         <div className="sub-section">
   <h4 className="sub-section-title">Uncountable Noun</h4>
+  <div className="sub-section custom-bg-1">
   <p className="section-description">Ciri-ciri:</p>
   <ul className="section-description">
     <li>Tidak bisa menggunakan kata sandang tidak tentu (<em>indefinite article</em>: “a/an”)</li>
@@ -79,6 +80,7 @@ const Nouns = () => {
     <li>Tidak bisa ditempatkan kata bilangan secara langsung</li>
     <li>Menggunakan <strong>partitive</strong> (kata yang menunjukkan bagian dari keseluruhan)</li>
   </ul>
+  </div>
 
   <div className="sub-content custom-bg-1">
     <h5 className="sub-section-title">Partitive Examples</h5>

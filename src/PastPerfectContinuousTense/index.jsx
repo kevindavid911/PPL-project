@@ -20,11 +20,13 @@ const PastPerfectContinuousTense = () => {
 
         <div className="sub-section">
           <h4 className="sub-section-title">Fungsi dan Penggunaan</h4>
+          <div className="sub-section custom-bg-2">
           <ul className="section-description">
             <li>Menunjukkan aksi yang berlangsung sebelum kejadian lain di masa lalu</li>
             <li>Menyatakan durasi aktivitas di masa lalu</li>
             <li>Menunjukkan penyebab dari kejadian di masa lalu</li>
           </ul>
+          </div>
           <div className="sub-content custom-bg-1">
             <p><strong>Contoh:</strong></p>
             <ul>
@@ -67,14 +69,17 @@ const PastPerfectContinuousTense = () => {
             </tbody>
           </table>
           <p className="section-description"><strong>Jawaban Singkat:</strong></p>
+          <div className="sub-section custom-bg-1">
           <ul className="section-description">
             <li>Had she been studying before the exam? → Yes, she had. / No, she hadn’t.</li>
             <li>Had they been waiting for long? → Yes, they had. / No, they hadn’t.</li>
           </ul>
         </div>
+        </div>
 
         <div className="sub-section">
           <h4 className="sub-section-title">Keterangan Waktu Umum</h4>
+          <div className="sub-section custom-bg-2">
           <ul className="section-description">
             <li>For (selama)</li>
             <li>Since (sejak)</li>
@@ -82,6 +87,7 @@ const PastPerfectContinuousTense = () => {
             <li>Until (hingga)</li>
             <li>By the time (pada saat)</li>
           </ul>
+        </div>
         </div>
 
         <div className="sub-section">
@@ -112,11 +118,13 @@ const PastPerfectContinuousTense = () => {
 
         <div className="sub-section">
           <h4 className="sub-section-title">Kesalahan Umum</h4>
+          <div className="sub-section custom-bg-1">
           <ul className="section-description">
             <li>❌ I had been study for two hours → ✅ I had been studying for two hours</li>
             <li>❌ He had been running → ✅ He had been running for an hour before he stopped to rest</li>
             <li>❌ I was studying for two hours before my friend came → ✅ I had been studying for two hours before my friend came</li>
           </ul>
+        </div>
         </div>
 
         <div className="navigation-buttons">
